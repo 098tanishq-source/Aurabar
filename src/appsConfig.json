@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Spotify",
+    "type": "desktop",
+    "icon": "🎧",
+    "color": "#1DB954"
+  },
+  {
+    "id": 2,
+    "name": "Valorant",
+    "type": "desktop",
+    "icon": "🎯",
+    "color": "#FF4655"
+  },
+  {
+    "id": 3,
+    "name": "Brave",
+    "type": "desktop",
+    "icon": "🦁",
+    "color": "#FB542B"
+  },
+  {
+    "id": 4,
+    "name": "Discord",
+    "type": "desktop",
+    "icon": "💬",
+    "color": "#5865F2"
+  },
+  {
+    "id": 5,
+    "name": "VS Code",
+    "type": "desktop",
+    "icon": "💻",
+    "color": "#007ACC"
+  },
+  {
+    "id": 6,
+    "name": "Steam",
+    "type": "desktop",
+    "icon": "🎮",
+    "color": "#171A21"
+  },
+  {
+    "id": 7,
+    "name": "OBS Studio",
+    "type": "desktop",
+    "icon": "🎥",
+    "color": "#302E31"
+  },
+  {
+    "id": 8,
+    "name": "Terminal",
+    "type": "desktop",
+    "icon": "⚡",
+    "color": "#0F1A1B"
+  }
+]
