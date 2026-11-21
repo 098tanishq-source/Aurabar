@@ -1,0 +1,28 @@
+Item #,Category,Component & Exact Description,Qty,Vendor / Search Term,Est. Price (INR),Why It's Mandatory
+1,Core Display,"Waveshare 8.8"" 1920×480 IPS Touch Screen",1,Robu / Amazon,"₹5,800.00",Primary desktop dashboard display.
+2,Microcontroller,Waveshare RP2040-Zero Mini Dev Board,2,Robu (RP2040-Zero),₹700.00,1 active + 1 backup in case of short circuit.
+3,Mini Screen,"0.96"" SSD1306 I2C OLED (128×64, 4-Pin)",2,Robu / Amazon,₹320.00,Dedicated hardware status/volume readout.
+4,Rotary Control,KY-040 / EC11 Rotary Encoder Module,2,Robu,₹180.00,Hardware volume dial with push button.
+5,Knob Cap,22mm Aluminum Knurled Rotary Knob Cap,1,Amazon / Robu,₹120.00,Metal dial cap to fit the 6mm encoder shaft.
+6,Switches,Outemu/Gateron Red Mechanical Switches (Pack of 5),1 pk,Meckeys / Amazon,₹200.00,The 3 physical macro keys + 2 spares.
+7,Keycaps,Blank XDA / DSA PBT Keycaps (Pack of 4–10),1 pk,Meckeys / Amazon,₹250.00,Caps to sit on top of the mechanical switches.
+8,PCB Fab,Custom 2-Layer Control Pod PCB (5 pcs),1 batch,JLCPCB,₹850.00,Manufacturing and delivery of the custom circuit board.
+9,Video Cable,Ultra-Thin Flat Ribbon Mini-HDMI to Standard HDMI (0.5m),1,Robu / Amazon,₹450.00,Thin enough to fold inside the tight 3D printed wedge.
+10,Power/Touch,90-Degree Right-Angle USB-C to USB-A Cable (0.5m),2,Amazon,₹400.00,Connects screen touch panel and RP2040 to rear hub.
+11,Internal Hub,4-Port Ultra-Slim USB 3.0 Hub Board,1,Amazon,₹420.00,"Merges touch, RP2040, and rear desk USB ports into 1 cable."
+12,Rear Extender,USB 3.0 Type-A Female Panel Mount Extension (0.3m),2,Amazon,₹480.00,Extends the internal USB hub to the rear I/O cutout.
+13,Status LEDs,3mm Diffused NeoPixel / Addressable RGB LEDs (Pack of 10),1 pk,Robu (WS2812B 5mm/3mm),₹180.00,Underglow/accent lighting inside the chassis cutouts.
+14,Logic Resistors,1/4W Metal Film Resistors Assortment Kit (300 pcs),1 box,Robu / Amazon,₹180.00,"4.7kΩ I2C pull-ups, 10kΩ switch pull-downs, and LED current limits."
+15,Capacitors,100nF (0.1uF) Ceramic Decoupling Capacitors (Pack of 20),1 pk,Robu,₹60.00,Filters electrical noise across 3.3V and 5V power rails.
+16,Pin Headers,40-Pin 2.54mm Male + Female Breakable Headers,2 sets,Robu,₹80.00,Sockets so the OLED and RP2040 can be unplugged without desoldering.
+17,Hookup Wire,28 AWG Flexible Silicone Stranded Wire Spool (6 Colors),1 kit,Robu / Amazon,₹350.00,Ultra-flexible wire for routing between boards inside the shell.
+18,Breadboard Kit,Mini 400-Point Solderless Breadboard + Jumper Wires,1 kit,Robu,₹220.00,For physical circuit prototyping before soldering onto the PCB.
+19,Threaded Inserts,M2.5 Brass Heat-Set Threaded Inserts (Pack of 20),1 pk,Robu / Amazon,₹180.00,Melted into 3D prints so screws don't strip the plastic.
+20,Screws Kit,M2.5 Stainless Steel Hex Socket Screws Kit (Lengths 4–12mm),1 kit,Amazon / Robu,₹320.00,"Fastening the front faceplate, PCB, and screen to the chassis."
+21,Rubber Feet,10mm Anti-Slip Silicone Adhesive Desk Bumpers (Pack of 8),1 pk,Amazon,₹120.00,Sticks to the bottom base so AuraBar doesn't slide when turning knobs.
+22,Solder Consumables,0.8mm Rosin-Core Lead-Free Solder Wire (50g),1 spool,Robu / Amazon,₹180.00,Solder alloy for mounting switches and pin headers.
+23,Flux,No-Clean Rosin Soldering Flux Paste (10g),1 tub,Robu,₹90.00,Cleans pad oxidation for clean joints.
+24,Insulation,Heat Shrink Tubing Assortment Kit (120 pcs),1 box,Robu / Amazon,₹150.00,Insulates exposed solder joints to prevent direct short circuits.
+25,Adhesive,1mm Thick Heavy Duty Acrylic Double-Sided Foam Tape,1 roll,Amazon,₹160.00,"Secures the 8.8"" display panel firmly against the front bezel cutout."
+26,Filament,1kg 1.75mm PLA+ 3D Printer Filament Spool (Matte Black),1 spool,Robu / Amazon (Numakers/Ender),₹950.00,Raw material to print the main wedge chassis and backplate.
+,,,,Grand Total,"₹13,390.00",
